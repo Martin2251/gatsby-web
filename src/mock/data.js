@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and looking for my fist role as a developer',
+  paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and looking for my first role as a developer',
   paragraphTwo: 'I have 5 years previous experience in various sales and accout management roles in Public Private and Not for Profit ',
   paragraphThree: 'I play rugby for the Kings Cross Steelers the first LGBT Rugby club which I also take part in orgainising club tours, I also part time DJ',
   resume: 'https://www.canva.com/design/DAEFHhc76DY/8Fj7AuC7dyq5nFSp8nnFJA/view?utm_content=DAEFHhc76DY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
