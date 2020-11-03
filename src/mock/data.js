@@ -44,7 +44,33 @@ export const projectsData = [
     url: 'https://plantastic-martin2251.herokuapp.com/',
     repo: 'https://github.com/Martin2251/Plantastic', // if no repo, the button will not show up
   },
-
+   {
+    id: nanoid(),
+    img: 'Project3.png',
+    title: 'React Weather API App',
+    info: 'A React weather app which uses the open weather API, you can type any city in the world and get the current temperature.',
+    info2: '',
+    url: 'https://gallant-jackson-98082b.netlify.app/',
+    repo: 'https://github.com/Martin2251/weather-react', // if no repo, the button will not show up
+  },
+     {
+    id: nanoid(),
+    img: 'Project5.png',
+    title: 'Quiz with Javascript',
+    info: 'A easy multiple choice quiz using Javascript .',
+    info2: '',
+    url: 'https://youthful-lichterman-2016a6.netlify.app/',
+    repo: 'https://github.com/Martin2251/quiz_app', // if no repo, the button will not show up
+  },
+     {
+    id: nanoid(),
+    img: 'Project4.png',
+    title: 'Simple Calculator with Javascript',
+    info: 'A simple calculator using Javascript',
+    info2: '',
+    url: 'https://loving-beaver-0b0c40.netlify.app/',
+    repo: 'https://github.com/Martin2251/js-calc', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
