@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and looking for my first role as a developer',
-  paragraphTwo: 'I have 5 years previous experience in various sales and accout management roles in Public Private and Not for Profit ',
+  paragraphTwo: 'I have 5 years previous experience in various sales and account management roles in Public Private and Not for Profit ',
   paragraphThree: 'I play rugby for the Kings Cross Steelers the first LGBT Rugby club which I also take part in orgainising club tours, I also part time DJ',
   resume: 'https://pdfhost.io/v/wJi9MyfAx_Black_Professional_Resume.pdf', // if no resume, the button will not show up
 };
@@ -70,6 +70,15 @@ export const projectsData = [
     info2: '',
     url: 'https://loving-beaver-0b0c40.netlify.app/',
     repo: 'https://github.com/Martin2251/js-calc', // if no repo, the button will not show up
+  },
+       {
+    id: nanoid(),
+    img: 'Project7.png',
+    title: 'Bug Invaders',
+    info: 'A game of space invaders using HTML, CSS and Javascript',
+    info2: '',
+    url: 'https://awesome-haibt-73e680.netlify.app/',
+    repo: 'https://github.com/Martin2251/bugInvaders', // if no repo, the button will not show up
   },
 ];
 
