@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and looking for my first role as a developer',
   paragraphTwo: 'I have 5 years previous experience in various sales and accout management roles in Public Private and Not for Profit ',
   paragraphThree: 'I play rugby for the Kings Cross Steelers the first LGBT Rugby club which I also take part in orgainising club tours, I also part time DJ',
-  resume: 'https://www.canva.com/design/DAEFHhc76DY/8Fj7AuC7dyq5nFSp8nnFJA/view?utm_content=DAEFHhc76DY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton', // if no resume, the button will not show up
+  resume: 'https://pdfhost.io/v/wJi9MyfAx_Black_Professional_Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A website which I was involved in using Ruby on Rails, Javascript, HTML & CSS, it has 3 user journeys Buy, Sell and Swap Baby Clothing and Accessories',
     info2: '',
     url: 'https://www.buybaby.shop/',
-    repo: 'https://github.com/anniebartlett/BuyBaby', // if no repo, the button will not show up
+    repo: 'https://github.com/Martin2251/BuyBaby', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
