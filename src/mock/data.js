@@ -80,6 +80,16 @@ export const projectsData = [
     url: 'https://awesome-haibt-73e680.netlify.app/',
     repo: 'https://github.com/Martin2251/bugInvaders', // if no repo, the button will not show up
   },
+  
+         {
+    id: nanoid(),
+    img: 'Project8.png',
+    title: 'Christmas Website',
+    info: 'A landing page of a Christmas shop using HTML, CSS and Javascript',
+    info2: '',
+    url: 'https://clever-liskov-616bd1.netlify.app/',
+    repo: 'https://github.com/Martin2251/xmas-landing', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
