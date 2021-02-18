@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and looking for my first role as a developer',
+  paragraphOne: 'I have recently completed the Le Wagon Full Stack Web Development bootcamp and now looking for my first role as a developer',
   paragraphTwo: 'I have 5 years previous experience in various sales and account management roles in Public Private and Not for Profit ',
   paragraphThree: 'I play rugby for the Kings Cross Steelers the first LGBT Rugby club which I also take part in orgainising club tours, I also part time DJ',
   resume: 'https://pdfhost.io/v/wJi9MyfAx_Black_Professional_Resume.pdf', // if no resume, the button will not show up
@@ -89,6 +89,16 @@ export const projectsData = [
     info2: '',
     url: 'https://clever-liskov-616bd1.netlify.app/',
     repo: 'https://github.com/Martin2251/xmas-landing', // if no repo, the button will not show up
+  },
+  
+           {
+    id: nanoid(),
+    img: 'Project9.png',
+    title: 'You Tube React',
+    info: 'A You Tube clone using React and bootstrap, a user can search and watch you tube clips',
+    info2: '',
+    url: 'https://wizardly-lumiere-bf5be5.netlify.app/',
+    repo: 'https://github.com/Martin2251/youtube', // if no repo, the button will not show up
   },
 ];
 
